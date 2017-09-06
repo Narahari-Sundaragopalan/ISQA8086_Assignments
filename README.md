@@ -12,6 +12,15 @@ This repository is to maintain the individual assignments part of **ISQA 8086- D
   1. Link to Readme.md file on Github repository
 
 ### Assignment 2 : Information Seeking
+>Datasets and Markdown document for each dataset containing explanation about the datasets.
+* Deliverables
+  1. __Dataset_1_GDP_CurrentPrices.csv__
+  2. __Dataset_1_GDP_CurrentPrices.md__
+  3. __Dataset_2_GroundwaterLevel_India.csv__
+  4. __Dataset_2_GroundwaterLevel_India.md__
+  5. __Dataset_3_ConsumerPriceIndex.csv__
+  6. __Dataset_3_ConsumerPriceIndex.md__
+
 
 ### Assignment 3 : Data Entry analysis
 
