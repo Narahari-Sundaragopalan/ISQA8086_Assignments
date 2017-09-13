@@ -23,6 +23,9 @@ This repository is to maintain the individual assignments part of **ISQA 8086- D
 
 
 ### Assignment 3 : Data Entry analysis
+>Analyze sample data sets and identify problems with the data organization in them. And provide suggestions for possible ways to manage and maintain data.
+* Deliverables
+  1. __DataEntryAnalysis.md__
 
 ### Assignment 4 : Work Plan & RQs
 
